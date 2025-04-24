@@ -3,8 +3,9 @@ venv/
 env/
 .env/
 
-# Streamlit secrets
+# Streamlit secrets (only ignore the actual secrets file, not the example)
 .streamlit/secrets.toml
+!.streamlit/secrets.toml.example
 
 # Python
 __pycache__/
