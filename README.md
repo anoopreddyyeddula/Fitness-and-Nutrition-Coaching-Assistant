@@ -71,5 +71,14 @@ An intelligent chatbot that provides personalized fitness and nutrition guidance
 - Difficulty level adjustment
 - Downloadable workout plans
 
+## 🔗 Deployment
+- Live on [Hugging Face Spaces](https://huggingface.co/spaces/anoopreddyyeddula/Fitness-and-Nutrition-Coaching-Assistant) 🚀
+
+---
+
+## 👨‍💻 Author
+
+Made by [Anoop Reddy](https://github.com/anoopreddyyeddula)
+
 ## License
 MIT License
